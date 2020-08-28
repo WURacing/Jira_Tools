@@ -7,8 +7,8 @@ This project is intended to make bulk-creating issues for JIRA as simple as poss
 The program assumes you have a `users.txt` file in the same directory as the `create_issues.py` script, with a single Jira user handle per line (as shown below):
 
 ```txt
-jack@mail.com
-jill@mail.edu
+jabrahms
+jmiller
 ```
 
 The program can be run with the command `python create_issues.py`
